@@ -1,0 +1,148 @@
+{
+  "youtube": [
+    {
+      "nombre": "MUSIC BY MEN",
+      "sub": "Video / Mix especial",
+      "url": "https://www.youtube.com/embed/7XZnTIsbt8M?si=Ly5Nztn98MVKMUKS"
+    },
+    {
+      "nombre": "VALLENATO",
+      "sub": "Playlist YouTube",
+      "url": "https://www.youtube.com/embed/videoseries?list=PLmr_KuiElvKiDuyabVEiENH9oqzu8LTE2"
+    },
+    {
+      "nombre": "SALSA",
+      "sub": "Playlist YouTube",
+      "url": "https://www.youtube.com/embed/videoseries?list=PL66-ykZioy81b78pmT8dp8YfiNeCvwj_z"
+    },
+    {
+      "nombre": "REGGAETON",
+      "sub": "Playlist YouTube",
+      "url": "https://www.youtube.com/embed/videoseries?list=PLB4UfyentMCuB006ZZ_R2JvdfZ2nMJCdz"
+    },
+    {
+      "nombre": "CHAMPETA",
+      "sub": "Playlist YouTube",
+      "url": "https://www.youtube.com/embed/videoseries?list=PLJw6a0kXHWS0IOjxcAwTF89tH_aW9B-0W"
+    },
+    {
+      "nombre": "RANCHERA",
+      "sub": "Playlist YouTube",
+      "url": "https://www.youtube.com/embed/videoseries?list=PLGUwEHGA8vYwfWzKsQXtNeUmhJ0NYyWt1"
+    },
+    {
+      "nombre": "POPULAR",
+      "sub": "Playlist YouTube",
+      "url": "https://www.youtube.com/embed/videoseries?list=CJiBbzUj3AYnUxtDwYjMQmFwUu8z5oPfPLDp97EUr8gh"
+    },
+    {
+      "nombre": "CRISTIANA",
+      "sub": "Playlist YouTube",
+      "url": "https://www.youtube.com/embed/videoseries?list=PLbsXiQOTnFUmPJf_CNV3vtELkeIiF58e4"
+    }
+  ],
+  "emisoras": [
+    {
+      "nombre": "OLÍMPICA VALLEDUPAR",
+      "tituloFull": "OLÍMPICA STEREO VALLEDUPAR",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_VALLEDUPARAAC.aac",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/902/olimpica-la-dorada.12dfd818.png"
+    },
+    {
+      "nombre": "CACICA STEREO",
+      "tituloFull": "CACICA STEREO",
+      "url": "https://stream.consultoradas.com/8042/stream",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/602/cacica-stereo.084433bd.png"
+    },
+    {
+      "nombre": "LA REINA",
+      "tituloFull": "LA REINA CARTAGENA",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENA_SC?mp=/stream",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/077/la-reina-986-fm-barranquilla.f4ddcaf3.jpg"
+    },
+    {
+      "nombre": "MIX 106.7",
+      "tituloFull": "MIX VALLEDUPAR",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_VALLEDUPARAAC.aac",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/895/mix-1067-fm.157bfcbd.jpg"
+    },
+    {
+      "nombre": "LA MEGA BARRANQUILLA",
+      "tituloFull": "LA MEGA BARRANQUILLA",
+      "url": "https://mdstrm.com/audio/632cbad6d1dcd7027f32fff6/icecast.audio",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/056/la-mega-barranquilla.60573223.jpg"
+    },
+    {
+      "nombre": "TROPICANA BARRANQUILLA",
+      "tituloFull": "TROPICANA BARRANQUILLA",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TR_BARRANQUILLAAAC.aac",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/619/tropicana-barranquilla.0ad9fa5d.jpg"
+    },
+    {
+      "nombre": "LOS 40",
+      "tituloFull": "LOS 40 MEDELLÍN",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEDELLINAAC.aac",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/845/los-40-principales-colombia.b3eabffc.jpg"
+    },
+    {
+      "nombre": "LA MEGA BOGOTÁ",
+      "tituloFull": "LA MEGA BOGOTÁ",
+      "url": "https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/icecast.audio",
+      "logo": "https://static.mytuner.mobi/media/radios-150px/032/la-mega-bogota.36fe2c68.png"
+    },
+    {
+      "nombre": "BLU RADIO",
+      "tituloFull": "BLU RADIO",
+      "url": "https://27413.live.streamtheworld.com/BLURADIO.mp3",
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/283/blu-radio.d17783b0.jpg"
+    },
+    {
+      "nombre": "RCN RADIO",
+      "tituloFull": "RCN RADIO",
+      "url": "https://mdstrm.com/audio/627c1c39637d89088290f64d/icecast.audio",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ6hKaVMGgPm72vwjvuLBjN2HxMJxjYcXVt4NKrld2vg&s=10.jpg"
+    },
+    {
+      "nombre": "TROPICANA MONTERÍA",
+      "tituloFull": "TROPICANA MONTERÍA",
+      "url": "https://29319.live.streamtheworld.com/TR_MONTERIAAAC.aac",
+      "logo": "https://cdn.colombia.com/canales/tropicana-553-v2.webp"
+    },
+    {
+      "nombre": "RADIO GUATAPURÍ",
+      "tituloFull": "RADIO GUATAPURÍ",
+      "url": "https://sonic.paulatina.co/7106/stream/1/",
+      "logo": "https://cdn.colombia.com/canales/radio-guatapuri-2170-v1.webp"
+    },
+    {
+      "nombre": "LA VOZ DEL CAÑAGUATE",
+      "tituloFull": "LA VOZ DEL CAÑAGUATE",
+      "url": "https://sonic.paulatina.co/7278/stream",
+      "logo": "https://cdn.colombia.com/canales/la-voz-del-canaguate-2676.jpg"
+    },
+    {
+      "nombre": "RADIOTIEMPO",
+      "tituloFull": "RADIOTIEMPO",
+      "url": "https://22223.live.streamtheworld.com/RT_BARRANQUILLAAAC.aac",
+      "logo": "https://cdn.colombia.com/canales/radio-tiempo-565-v2.webp"
+    },
+    {
+      "nombre": "LA QUE TE GUSTA!",
+      "tituloFull": "LA QUE TE GUSTA!",
+      "url": "https://streaming.radiosenlinea.com.ar/9014/stream",
+      "logo": "https://laquetegusta.com/wp-content/uploads/elementor/thumbs/Diseno_Logo_la-que-te-gusta-scaled-r51on7pfo8uiwadf61yll268fsxqhsf1bh5toiedxc.png"
+    },
+    {
+      "nombre": "RADIO UNO",
+      "tituloFull": "RADIO UNO",
+      "url": "https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/icecast.audio",
+      "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-632c9bbcaa9ace684913b81b.png?c=20260314"
+    },
+    {
+      "nombre": "KEXP SEATTLE",
+      "tituloFull": "KEXP SEATTLE",
+      "url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
+      "logo": "https://www.kexp.org/static/assets/img/logo-header.svg"
+    }
+  ]
+}
